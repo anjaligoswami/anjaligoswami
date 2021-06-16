@@ -25,6 +25,6 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anjaligoswami&theme=blue-green)
 
-<h3 align="left">At last, here's a joke for you:</h3>
+<!-- <h3 align="left">At last, here's a joke for you:</h3>
 <p align="left"> <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></p>
-
+ -->
