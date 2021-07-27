@@ -9,7 +9,7 @@
 - 💬 Ask me about Basics of DSA.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anjali-goswami-4701681ba/)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact **I love memes :D**
+- ⚡ Fun fact **I can make you laugh :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
