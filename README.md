@@ -4,9 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjaligoswami&label=Profile%20views&color=0e75b6&style=flat" alt="anjaligoswami" /> </p>
 
 - 🌱 I’m currently learning **JavaScript & React**
-
-- 📫 How to reach me **agcodes86400@gmail.com**
-
+- 👯 I’m looking to collaborate on exciting **Projects and Hackathons**
+- 🤔 I’m looking for help with learning React.
+- 💬 Ask me about Basics of DSA.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anjali-goswami-4701681ba/)
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact **I love memes :D**
 
 <h3 align="left">Connect with me:</h3>
