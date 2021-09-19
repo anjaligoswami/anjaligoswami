@@ -37,7 +37,7 @@ A Sophomore and a highly curious girl having a knack for programming and learnin
 	<img src="https://img.shields.io/badge/C++-a31d8f?&style=for-the-badge&logo=cplusplus&logoColor=white" alt="c++" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="express" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Canva-%234ea94b.svg?&style=for-the-badge&logo=canva&logoColor=white" alt="canva" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/CSS-ff8800?style=for-the-badge&logo=CSS&logoColor=white" alt="css" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/CSS-ff8800?style=for-the-badge&logo=css3&logoColor=white" alt="css" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />&nbsp;&nbsp;
   	<img src="https://img.shields.io/badge/Nodejs-197006?&style=for-the-badge&logo=node.js&logoColor=white" alt="node" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Notion-2088FF?style=for-the-badge&logo=notion&logoColor=white" alt="notion" />&nbsp;&nbsp;
