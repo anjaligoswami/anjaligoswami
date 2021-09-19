@@ -11,7 +11,7 @@ A Sophomore and a highly curious girl having a knack for programming and learnin
 <h3 align="center">Connect with me 🦄</h3>
 
 <p align="center">
-   <a href="https://linkedin.com/anjaligoswami20">
+   <a href="linkedin.com/in/anjaligoswami20">
 		<img src="https://img.shields.io/badge/Linkedin-2088FF?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	<a href="mailto:agcodes86400@gmail.com">
