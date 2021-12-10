@@ -30,16 +30,16 @@ A Sophomore and a highly curious girl having a knack for programming and learnin
 <p align="center">
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/React-a5f2f1?style=for-the-badge&logo=react&logoColor=black" alt="react" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/Redux-0b0957?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/Redis-5d59cf?style=for-the-badge&logo=redis&logoColor=white" alt="redis" />&nbsp;&nbsp;
+<!-- 	<img src="https://img.shields.io/badge/Redux-0b0957?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />&nbsp;&nbsp; -->
+<!-- 	<img src="https://img.shields.io/badge/Redis-5d59cf?style=for-the-badge&logo=redis&logoColor=white" alt="redis" />&nbsp;&nbsp; -->
 	<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/C-008094?&style=for-the-badge&logo=c&logoColor=white" alt="c" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/C++-a31d8f?&style=for-the-badge&logo=cplusplus&logoColor=white" alt="c++" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="express" />&nbsp;&nbsp;
+<!-- 	<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="express" />&nbsp;&nbsp; -->
 	<img src="https://img.shields.io/badge/Canva-%234ea94b.svg?&style=for-the-badge&logo=canva&logoColor=white" alt="canva" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/CSS-ff8800?style=for-the-badge&logo=css3&logoColor=white" alt="css" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />&nbsp;&nbsp;
-  	<img src="https://img.shields.io/badge/Nodejs-197006?&style=for-the-badge&logo=node.js&logoColor=white" alt="node" />&nbsp;&nbsp;
+<!--   	<img src="https://img.shields.io/badge/Nodejs-197006?&style=for-the-badge&logo=node.js&logoColor=white" alt="node" />&nbsp;&nbsp; -->
 	<img src="https://img.shields.io/badge/Notion-2088FF?style=for-the-badge&logo=notion&logoColor=white" alt="notion" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
 </p>
