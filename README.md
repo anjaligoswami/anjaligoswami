@@ -4,7 +4,7 @@
 A Sophomore and a highly curious girl having a knack for programming and learning new stuffs. <br>🌻 <b>Learning new things everyday.</b>
 </p>
 <p align="center">
-  <img src="https://media1.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif?cid=790b7611193718d74763a22a18c03db692018f9cd4a5f53e&rid=giphy.gif" />
+  <img src="https://data.whicdn.com/images/136792126/original.gif" />
 </p>
 <br>
 
