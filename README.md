@@ -45,14 +45,14 @@ A Sophomore and a highly curious girl having a knack for programming and learnin
 </p>
 
   <br>
-<p align="center">
+<!-- <p align="center">
   <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=anjaligoswami&show_icons=true&theme=merko&count_private=true" alt="Anjali's github stats" />
   <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjaligoswami&theme=merko&layout=compact" alt="Anjali's github top languages" />
 </p>
 <p align="center">
     <img  height="150em" alt="Anjali's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anjaligoswami&theme=merko"/>
   <br>
-  <br>
+  <br> -->
 
   <p align="center"> KEEP EXPLORING, KEEP EXPERIMENTING 😉 </p>
 </p>
